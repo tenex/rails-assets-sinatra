@@ -6,7 +6,7 @@ gem 'sinatra', require: 'sinatra/base'
 gem 'sinatra-asset-pipeline', require: 'sinatra/asset_pipeline'
 
 gem 'execjs'
-gem "therubyracer"
+gem 'therubyracer'
 
 gem 'uglifier'
 gem 'slim'
