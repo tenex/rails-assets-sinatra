@@ -5,6 +5,9 @@ gem 'bundler', '>= 1.7.0'
 gem 'sinatra', require: 'sinatra/base'
 gem 'sinatra-asset-pipeline', require: 'sinatra/asset_pipeline'
 
+gem 'execjs'
+gem 'therubyracer'
+
 gem 'uglifier'
 gem 'slim'
 
